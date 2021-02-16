@@ -6,4 +6,4 @@ their confidential materials. With the stolen confidential materials, I can sell
 
 There are 2 versions for the Attack Path Document.
 - 1st version: Has spelling mistakes.
-- 2nd version: I have made minor amendments such as spelling mistaskes and added an image for the final steps. 
+- 2nd version: I have made minor amendments such as spelling mistakes and added an image for the final steps. 
